@@ -1,7 +1,7 @@
 # Xcrash-elizzy
 Crash WhatsApp 
 # Hello 
-![a-cyborg-warrior-with-leather-black-mask-tall-long-arms-v0-n2eacjvdnbsb1](https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
+![IMG-20240923-WA0015](https://github.com/user-attachments/assets/8f8d7043-6bec-4421-9587-62ea0679419f)(https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+__XCRASH-ELIZZY+BUG+-BOT 🦠__;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ELIZZYBERRY TECH⭐+LORD;REALESE+DATE+10%2F8%2F2023." alt="Typing SVG" /></a>
 </p>
