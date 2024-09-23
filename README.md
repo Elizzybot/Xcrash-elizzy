@@ -1,7 +1,7 @@
 # Xcrash-elizzy
 Crash WhatsApp 
 # Hello im xcrash elizzy 
-(![IMG-20240831-WA0054](https://github.com/user-attachments/assets/1604b3d2-24bd-4d8f-83de-7e0b4aadd5e7))(https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
+![IMG-20240923-WA0015](https://github.com/user-attachments/assets/043f6277-a00b-4c37-a953-023d9d341533)(https://github.com/user-attachments/assets/1604b3d2-24bd-4d8f-83de-7e0b4aadd5e7))(https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+__XCRASH-ELIZZY+BUG+-BOT 🦠__;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ELIZZYBERRY TECH⭐+LORD;REALESE+DATE+10%2F8%2F2023." alt="Typing SVG" /></a>
 </p>
