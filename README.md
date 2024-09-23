@@ -3,9 +3,9 @@ Crash WhatsApp
 # Hello 
 ![a-cyborg-warrior-with-leather-black-mask-tall-long-arms-v0-n2eacjvdnbsb1](https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+__INCONNU-V2+BUG+-BOT 🦠__;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+INCONNU TECH⭐+LORD;REALESE+DATE+10%2F8%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+__XCRASH-ELIZZY+BUG+-BOT 🦠__;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ELIZZYBERRY TECH⭐+LORD;REALESE+DATE+10%2F8%2F2023." alt="Typing SVG" /></a>
 </p>
-                     # Inconnu-V2-MD
+                     # xcrash elizzy-V2-MD
                🦠 WhatsApp bug X Crash-Bot 🦠
   
 
@@ -13,7 +13,7 @@ Crash WhatsApp
 
 1.𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎
    
-<a href='https://github.com/Darkside-Md/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/elizzybot/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑 1
@@ -162,7 +162,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - *
 
 
-<h2 align="center"> 🎗️ *INCONNU-V2-MD*
+<h2 align="center"> 🎗️ *xcrash elizzy-V2-MD*
 </h2>
 
  
